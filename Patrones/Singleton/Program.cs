@@ -26,7 +26,7 @@ namespace Singleton
                 SessionManager u = SessionManager.GetInstance;
                 SessionManager.Logout();
                 
-                Console.ReadLine();
+                Console.ReadKey();
             }
             catch (Exception e)
             {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    class Componente<T> : IComponente<T>
+    public class Componente<T> : IComponente<T>
     {
         public Componente(T nombre)
         {

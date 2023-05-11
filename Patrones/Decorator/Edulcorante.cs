@@ -11,5 +11,10 @@ namespace Decorator
         public Edulcorante(BebidaComponent bebida) : base(bebida) { }
         public override double Costo => _bebida.Costo + 20;
         public override string Descripcion => $"{_bebida.Descripcion}, Edulcorante";
+
+        //public override string Descripcion
+        //{
+        //    get { return $"{_bebida.Descripcion}, Edulcorante"; }
+        //}
     }
 }

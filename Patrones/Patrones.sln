@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator min", "Iterator mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipe", "Prototipe\Prototipe.csproj", "{0E98FD43-CEA0-48F5-8D4D-571245DD2D95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{9E15D7EE-A712-417E-B2C0-D88197F85CEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0E98FD43-CEA0-48F5-8D4D-571245DD2D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E98FD43-CEA0-48F5-8D4D-571245DD2D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E98FD43-CEA0-48F5-8D4D-571245DD2D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

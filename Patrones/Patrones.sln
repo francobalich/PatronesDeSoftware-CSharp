@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipe", "Prototipe\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{9E15D7EE-A712-417E-B2C0-D88197F85CEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{B1392346-DB46-42B4-9D17-E06036D616D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E15D7EE-A712-417E-B2C0-D88197F85CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1392346-DB46-42B4-9D17-E06036D616D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1392346-DB46-42B4-9D17-E06036D616D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1392346-DB46-42B4-9D17-E06036D616D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1392346-DB46-42B4-9D17-E06036D616D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

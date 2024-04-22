@@ -1,6 +1,6 @@
 # Patrones de diseño de software - C#
 
-En este repositorio van a encontrar un proyecto de consola en C# con diferentes ejemplos en código de los patrones de diseño de software vistos en la materia de **Ingeniería de software**.
+En este repositorio van a encontrar un proyecto de consola en C# con diferentes ejemplos en código de los patrones de diseño de software vistos en la materia de **Ingeniería de software** y **Trabajo de Diploma**.
 
 ## Instalación
     1. Clonar o descargar el repositorio
